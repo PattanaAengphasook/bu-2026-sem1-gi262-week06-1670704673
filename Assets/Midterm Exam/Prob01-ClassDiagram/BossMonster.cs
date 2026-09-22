@@ -4,6 +4,8 @@ namespace MidtermExam.Prob01
 {
     public class BossMonster
     {
+        public int phase;
+        private bool isEnraged;
         // TODO: Implement inheritance, fields and methods according to Class Diagram
     }
 }

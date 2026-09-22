@@ -12,6 +12,7 @@ namespace MidtermExam.Prob02
         /// <returns>LinkedList ที่ได้รับการเรียงลำดับจากน้อยไปมากแล้ว</returns>
         public LinkedList<int> SortAscending(LinkedList<int> list)
         {
+            
             // TODO: Implement sorting algorithm for LinkedList<int> (Ascending)
             return list;
         }
